@@ -1,0 +1,2 @@
+### URL Shortener
+This is a simple URL shortener that takes a long URL and returns a shortened version of it. The shortened URL is a unique 6 character string that is generated using a random number generator. 
